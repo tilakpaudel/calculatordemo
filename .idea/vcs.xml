@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SIX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensor2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calculatordemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/democal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/democalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/five" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newcalculator" vcs="Git" />
   </component>
 </project>
